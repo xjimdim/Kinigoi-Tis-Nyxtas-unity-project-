@@ -1,2 +1,2 @@
 # Kinigoi-Tis-Nyxtas-unity-project-
-RPG Card Game 
+RPG Card Game in development
