@@ -1,7 +1,7 @@
 ![Shadow Hunters RPG Card Game by XjiMDim](https://github.com/xjimdim/Shadow-Hunters/blob/master/screencaptures/Image2.jpg) 
 ***
 
-WARNING: This is version is heavily outdated: check this one [link]
+WARNING: This is version is heavily outdated: check this one https://github.com/xjimdim/Shadow-Hunters
 
 ## What is Shadow Hunters?
 
